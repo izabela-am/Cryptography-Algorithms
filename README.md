@@ -25,7 +25,7 @@
   - cd Cryptography-Algorithms
   
   # Select algorithm you want to use, ex:
-  - cd cd caesar-cipher
+  - cd caesar-cipher
   
   # Write your message inside a text file
   # Run the script
