@@ -17,22 +17,7 @@
 - Python
 
 # :barber: How to use
-```shell
-  # Clone this repository:
-  - git clone https://github.com/izabela-am/Cryptography-Algorithms.git
-  
-  # Enter project directory:
-  - cd Cryptography-Algorithms
-  
-  # Select algorithm you want to use, ex:
-  - cd caesar-cipher
-  
-  # Write your message inside a text file
-  # Run the script
-  - python3 ./caesar_cipher.py mymessage.txt 15 decrypt 
-  # python3 + the python file we are running + the txt file we used to store our message +
-  # the value of our shift key (can be any number) + operation (encrypt or decrypt)
-```
+- Each folder contains the script + a README explaining how to use it.
 
 
 # :fork_and_knife: Contributions
